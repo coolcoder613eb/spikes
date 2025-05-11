@@ -1,0 +1,19 @@
+{
+  "block-spikeplate": "Spike Plate",
+  "block-pslargemold-raw-spikeplate": "Raw Bed-O-Nails mold",
+  "block-pslargemold-burned-spikeplate": "Bed-O-Nails mold",
+  "blockcraftdesc-pslargemold-raw-spikeplate": "A spike covered plate for a pit trap",
+  "block-spikeplate-bismuth": "Bed-O-Nails (Bismuth)",
+  "block-spikeplate-bismuthbronze": "Bed-O-Nails (Bismuth Bronze)",
+  "block-spikeplate-blackbronze": "Bed-O-Nails (Black Bronze)",
+  "block-spikeplate-brass": "Bed-O-Nails (Brass)",
+  "block-spikeplate-copper": "Bed-O-Nails (Copper)",
+  "block-spikeplate-gold": "Bed-O-Nails (Gold)",
+  "block-spikeplate-lead": "Bed-O-Nails (Lead)",
+  "block-spikeplate-silver": "Bed-O-Nails (Silver)",
+  "block-spikeplate-tin": "Bed-O-Nails (Tin)",
+  "block-spikeplate-tinbronze": "Bed-O-Nails (Tin Bronze)",
+  "block-spikeplate-zinc": "Bed-O-Nails (Zinc)",
+  "block-spikeplate-molybdochalkos": "Bed-O-Nails (Molybdochalkos)",
+  "blockdesc-spikeplate-*": "Severely damages entities that walk or fall on it."
+}

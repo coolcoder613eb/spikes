@@ -1,0 +1,8 @@
+{
+  "type": "code",
+  "modid": "spikes",
+  "name": "Spikes",
+  "authors": ["ebruce"],
+  "description": "Pointy spikes that deal damage.",
+  "version": "1.0.0"
+}
